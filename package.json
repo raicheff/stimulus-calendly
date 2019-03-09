@@ -1,0 +1,23 @@
+{
+  "name": "stimulus-calendly",
+  "version": "0.1.0",
+  "description": "Stimulus-Calendly",
+  "main": "stimulus-calendly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raicheff/stimulus-calendly.git"
+  },
+  "keywords": [
+    "stimulus",
+    "calendly"
+  ],
+  "author": "Boris Raicheff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raicheff/stimulus-calendly/issues"
+  },
+  "homepage": "https://github.com/raicheff/stimulus-calendly#readme"
+}
