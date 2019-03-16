@@ -1,7 +1,7 @@
 /*
- * Airpbx
+ * Stimulus-Calendly
  *
- * Copyright (C) 2019 Airpbx Ltd
+ * Copyright (C) 2019 Boris Raicheff
  * All rights reserved
  */
 
